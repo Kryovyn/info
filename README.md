@@ -39,7 +39,7 @@ We operate across four specialized branches:
 ## 🚀 Featured Repositories
 
 
-- **[Meloveh Shaders v1](https://github.com/meloveh/meloveh-shaders)** — Custom shader pack for Minecraft 1.21.11.
+- **[Meloveh Shaders v1](https://github.com/meloveh/Minecraft-Shaders)** — Custom shader pack for Minecraft 1.21.11.
 
 ---
 <div align="center">
